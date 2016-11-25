@@ -1,0 +1,1 @@
+C:\My\ASyncP.NET\22_AsyncAwait.Implementation\bin\Debug\22_AsyncAwait.Implementation.exe.config
